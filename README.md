@@ -1,1 +1,1 @@
-Alx zero day repo
+0x00-vagrant directory
